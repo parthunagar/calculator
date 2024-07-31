@@ -27,9 +27,9 @@ You can check it out from here: [Figma Link](https://www.figma.com/design/AK0E5g
 
 # 📂 Download the app and test it
 
-- ### [📱 Android](https://github.com/aymendn/Flutter-Calculator/releases/download/v1.0.0/Flutter-Calculator.apk)
+- ### [📱 Android](https://github.com/parthunagar/calculator/tree/main/apk/Flutter-Calculator.apk)
 
-- ### [💻 Windows](https://github.com/aymendn/Flutter-Calculator/releases/download/v1.0.0/Windows-Release.rar)
+- ### [💻 Windows](https://github.com/parthunagar/calculator/tree/main/apk/v1.0.0/Windows-Release.rar)
 
 # 🤝 Contribution
 
